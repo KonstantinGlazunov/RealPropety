@@ -45,8 +45,8 @@ public class Main {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-       String answer = "5";
-        while (!answer.equalsIgnoreCase("0")){
+        String answer = "5";
+        while (!answer.equalsIgnoreCase("0")) {
 
             switch (answer) {
                 case "1":
